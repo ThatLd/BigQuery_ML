@@ -1,1 +1,3 @@
-+ build a product recommendation system using matrix factorization (collaborative filtering), and use the predicted results to drive marketing activation
+# BigQuery Machine Learning
+## Matrix Factorization Model in BigQuery ML
++ create a matrix factorization model from implicit feedback in BigQuery using SQL queries
